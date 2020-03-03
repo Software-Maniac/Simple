@@ -4,6 +4,4 @@ Second.
 
 Third.
 
-Fourth.
-
-Fifth and modified again.
+A final fourth line
